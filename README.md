@@ -31,7 +31,7 @@ actual path -->
 
 ## How to Use
 
-1. Download the Spotify Playlist Downloader executable from the [releases](https://github.com/rajashekarpatha07/Spotify_playlist_downloader).
+1. Download the Spotify Playlist Downloader executable from the [releases](https://github.com/rajashekarpatha07/Spotify_playlist_downloader/blob/main/Spotify_Playlist_downloader.exe).
 2. Run the `.exe` file.
 3. Select your **Excel** or **TXT** file containing track names.
 4. Choose your download location.
@@ -67,7 +67,7 @@ actual path -->
 1. Clone the repository:
 
     ```bash
-     https://github.com/rajashekarpatha07/Spotify_playlist_downloader
+     https://github.com/rajashekarpatha07/Spotify_playlist_downloader/blob/main/Spotify_Playlist_downloader.exe
 
 2. Install dependencies:
 
@@ -87,3 +87,7 @@ actual path -->
     - `threading`
 
 ---
+
+## How to run
+- You can run this using this command
+    '''python Spotify_Playlist_downloader.exe
