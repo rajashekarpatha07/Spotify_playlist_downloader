@@ -90,4 +90,6 @@ actual path -->
 
 ## How to run
 - You can run this using this command
-    '''python Spotify_Playlist_downloader.exe
+         ```bash
+              python Spotify_Playlist_downloader.exe
+       ```
